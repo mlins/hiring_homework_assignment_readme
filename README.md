@@ -1,6 +1,6 @@
-# Mobile Doorman Homework Assignment
+# Zego/Mobile Doorman Homework Assignment
 
-We designed this homework assignement as part of the hiring evaluation process at Mobile Doorman. Please send any questions to mlins@gozego.com
+We designed this homework assignement as part of the hiring evaluation process at Zego/Mobile Doorman. Please send any questions to mlins@gozego.com
 
 You can use whichever ruby framework/tools/gems (or no framework/tools/gems) that you feel comfortable with. Please design this in a way that you would for something that would go live into production (tests, docs, etc).
 
