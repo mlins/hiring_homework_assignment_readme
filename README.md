@@ -1,4 +1,4 @@
-# Zego/Mobile Doorman Homework Assignment
+# Zego/Mobile Doorman - Homework Assignment
 
 We designed this homework assignement as part of the hiring evaluation process at Zego/Mobile Doorman. Please send any questions to mlins@gozego.com
 
