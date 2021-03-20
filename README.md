@@ -4,7 +4,7 @@ We designed this homework assignement as part of the hiring evaluation process a
 
 You can use whichever ruby framework/tools/gems (or no framework/tools/gems) that you feel comfortable with. Please design this in a way that you would for something that would go live into production (tests, docs, etc).
 
-Create a *private* repository in github to host your code and give colloborater access to: https://github.com/mlins
+Create a *private* repository in github to host your code and give colloborater access to: https://github.com/mlins and https://github.com/seichewarning
 
 # Goal
 
