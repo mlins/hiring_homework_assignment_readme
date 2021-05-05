@@ -27,7 +27,7 @@ The data is an array of users where each user is similar to the following snippe
   }
 }
 ```
-* In order for a user to be considered valid it must contain a `firstName`, `lastName` and either a valid `email` and or a valid `phone`. If not valid, ignore.
+* In order for a user to be considered valid it must contain a `firstName`, `lastName` and either a valid `email` or a valid `phone`. If not valid, ignore.
 
 * A valid user is unique by its `firstName` and `lastName`.
 
